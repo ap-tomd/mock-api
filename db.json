@@ -1,6 +1,6 @@
 {
   "users": [
     { "id": 1, "nom": "Depasse", "prenom": "Tom" },
-    { "id": 1, "nom": "Priels", "prenom": "Amaury" },
+    { "id": 1, "nom": "Priels", "prenom": "Amaury" }
   ]
 }
